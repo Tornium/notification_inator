@@ -1,6 +1,5 @@
 defmodule Tornium.NotificationInator.CaseTemplate do
   use ExUnit.CaseTemplate
-  require Logger
 
   @default_vm_state %{}
 
